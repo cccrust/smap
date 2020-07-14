@@ -1,6 +1,6 @@
 [package]
 name = "smap"
-version = "0.2.1"
+version = "0.2.2"
 authors = ["ccckmit <ccckmit@gmail.com>"]
 edition = "2018"
 description = "Simple-Map: HashMap for easy to use."
